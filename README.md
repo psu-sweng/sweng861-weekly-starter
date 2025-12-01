@@ -36,18 +36,18 @@ Click Create repository.
 Method 2: Manual Clone
 If the template button is not visible, follow these steps locally:
 
-Clone this starter repository:
+1. Clone this starter repository:
 
 Bash
 
 git clone [https://github.com/psu-sweng/sweng861-weekly-starter.git](https://github.com/psu-sweng/sweng861-weekly-starter.git)
 
-Rename the folder to match the course convention:
+2. Rename the folder to match the course convention:
 
 Bash
-
 mv sweng861-weekly-starter sweng861-crud-<yourPSUid>
-Re-initialize Git (This creates a fresh history for your project):
+
+3. Re-initialize Git (This creates a fresh history for your project):
 
 Bash
 
